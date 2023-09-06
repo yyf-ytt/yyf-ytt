@@ -6,3 +6,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=yyf-ytt&show_icons=true&theme=transparent)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/yyf-ytt/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyf-ytt&layout=compact&theme=tokyonight)
